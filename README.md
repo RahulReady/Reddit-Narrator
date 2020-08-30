@@ -37,4 +37,4 @@ https://www.youtube.com/channel/UCVFG7fbuz3noaXS56ZR3cxg/videos
 
 
 <hr>
-Disclaimer - Parts of the project may have been omitted/ obfuscated to make it challenging to simply copy and use. If you would like to monetize this (or managethe Youtube channel), send me a message and we can talk!
+Disclaimer - Parts of the project may have been omitted/ obfuscated to make it challenging to simply copy and use. If you would like to monetize this (or manage the Youtube channel), send me a message and we can talk!
