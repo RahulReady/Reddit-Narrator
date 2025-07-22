@@ -1,4 +1,4 @@
- <img src="logo/logo1.png" alt="drawing" width="400"/>
+ <img src="https://res.cloudinary.com/dwhdgmtem/image/upload/v1753162035/rn_vglr4d.jpg" alt="drawing" width="400"/>
 
 ## **Motivation:**
 
